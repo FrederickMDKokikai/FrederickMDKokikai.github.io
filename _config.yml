@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Aikido Kokikai of Frederick County, Maryland"
-keywords:    "aikido, kokikai, martial arts, self-defense"
+keywords:    "Aikido, Kokikai, Martial Arts, Self-defense"
 description: "Aikido Kokikai Frederick is a martial arts club in New Market, Maryland"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  UA-83785914-1 ## put YOUR key here to enable tracking! (blank to disable)

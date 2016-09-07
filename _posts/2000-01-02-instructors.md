@@ -1,10 +1,10 @@
 ---
 title: "Instructors"
-bg: white
+bg: green
 color: black
 position: top
 ---
-# Instructors
+# <img src="img/b2.jpg" style="width:100px"> Instructors 
 
 **Abhijit Dasgupta** is a fourth degree black belt and certified instructor in Kokikai Aikido,  and a direct student of Sensei Maruyama, founder of Kokikai Aikido. 
 He has been 

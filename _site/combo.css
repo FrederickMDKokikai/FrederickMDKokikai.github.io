@@ -94,7 +94,7 @@
 	blockquote.announce {
 		margin: 10px auto 10px auto;
 		width: 70%;
-		background-color: DarkGoldenRod;
+		background-color: #fab125;
 		color: Black;
 		font-size: 20px;
 		line-height: 24px;
@@ -525,58 +525,58 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-20000120calendar { border-color: #f8f8f8; }
-  #20000120calendar { background-color: #f8f8f8 !important; color: #111111; }
-  #20000120calendar a { color: #111111; }
-  #20000120calendar .sectiondivider { color: #f8f8f8; }
+  nav .p-20000120friends { border-color: #f8f8f8; }
+  #20000120friends { background-color: #f8f8f8 !important; color: #111111; }
+  #20000120friends a { color: #111111; }
+  #20000120friends .sectiondivider { color: #f8f8f8; }
 
   
   
   
-  nav .p-20000110friends { border-color: #f8f8f8; }
-  #20000110friends { background-color: #f8f8f8 !important; color: #111111; }
-  #20000110friends a { color: #111111; }
-  #20000110friends .sectiondivider { color: #f8f8f8; }
+  nav .p-20000115maruyama { border-color: #f8f8f8; }
+  #20000115maruyama { background-color: #f8f8f8 !important; color: #111111; }
+  #20000115maruyama a { color: #111111; }
+  #20000115maruyama .sectiondivider { color: #f8f8f8; }
 
   
   
   
-  nav .p-20000107classes { border-color: #f8f8f8; }
-  #20000107classes { background-color: #f8f8f8 !important; color: #111111; }
+  nav .p-20000114kokikai { border-color: #f8f8f8; }
+  #20000114kokikai { background-color: #f8f8f8 !important; color: #111111; }
+  #20000114kokikai a { color: #111111; }
+  #20000114kokikai .sectiondivider { color: #f8f8f8; }
+
+  
+  
+  
+  nav .p-20000113aikido { border-color: #f8f8f8; }
+  #20000113aikido { background-color: #f8f8f8 !important; color: #111111; }
+  #20000113aikido a { color: #111111; }
+  #20000113aikido .sectiondivider { color: #f8f8f8; }
+
+  
+  
+  
+  nav .p-20000108calendar { border-color: #fab125; }
+  #20000108calendar { background-color: #fab125 !important; color: #49a7e9; }
+  #20000108calendar a { color: #49a7e9; }
+  #20000108calendar .sectiondivider { color: #fab125; }
+
+  
+  
+  
+  nav .p-20000107classes { border-color: red; }
+  #20000107classes { background-color: red !important; color: #111111; }
   #20000107classes a { color: #111111; }
-  #20000107classes .sectiondivider { color: #f8f8f8; }
+  #20000107classes .sectiondivider { color: red; }
 
   
   
   
-  nav .p-20000105maruyama { border-color: #f8f8f8; }
-  #20000105maruyama { background-color: #f8f8f8 !important; color: #111111; }
-  #20000105maruyama a { color: #111111; }
-  #20000105maruyama .sectiondivider { color: #f8f8f8; }
-
-  
-  
-  
-  nav .p-20000104kokikai { border-color: #f8f8f8; }
-  #20000104kokikai { background-color: #f8f8f8 !important; color: #111111; }
-  #20000104kokikai a { color: #111111; }
-  #20000104kokikai .sectiondivider { color: #f8f8f8; }
-
-  
-  
-  
-  nav .p-20000103aikido { border-color: #f8f8f8; }
-  #20000103aikido { background-color: #f8f8f8 !important; color: #111111; }
-  #20000103aikido a { color: #111111; }
-  #20000103aikido .sectiondivider { color: #f8f8f8; }
-
-  
-  
-  
-  nav .p-20000102instructors { border-color: #f8f8f8; }
-  #20000102instructors { background-color: #f8f8f8 !important; color: #111111; }
+  nav .p-20000102instructors { border-color: #9bcf2f; }
+  #20000102instructors { background-color: #9bcf2f !important; color: #111111; }
   #20000102instructors a { color: #111111; }
-  #20000102instructors .sectiondivider { color: #f8f8f8; }
+  #20000102instructors .sectiondivider { color: #9bcf2f; }
 
   
   
