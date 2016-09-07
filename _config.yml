@@ -11,6 +11,8 @@ exclude: [CNAME, README.md, .gitignore]
 timezone: null
 lsi: false
 markdown: kramdown
+baseurl: frederickmdkokikai.github.io
+    
 
 
 ### content configuration ###
