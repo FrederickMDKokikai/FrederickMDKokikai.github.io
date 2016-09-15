@@ -20,4 +20,4 @@ leadership role for one of the professional societies in actuarial science.
 
 Abhijit and Tom regularly attend national camps and seminars with Sensei Maruyama and other senior instructors in Kokikai Aikido
 
-
+Please <a href="mailto:aikidasgupta+akf@gmail.com">contact the instructors</a> if you have questions or require further information about our programs
