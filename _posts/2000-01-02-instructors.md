@@ -11,7 +11,7 @@ He has been
 practicing aikido since 1994, starting when he was in graduate school at the University of Washington. He spent
 6 years at Aikido Kokikai Seattle under Sensei Jonathan Bannister. Since then, Abhijit was a member of [Ellicott City Aikido](http://www.ellicottcityaikido.com) with Sensei Brian Kantsiper, then Aikido Kokikai of South New Jersey with Sensei Dennis Embert
 for three years before moving to Germantown, Maryland. He joined Aikido Kokikai of Frederick County, Maryland as Chief Instructor in 2010. He occasionally <a href="http://aikidasgupta.blogspot.com" target="_blank">blogs</a>  about aikido and the martial arts.
-Professionally, Abhijit is a data science consultant for the National Institutes of Health and also works to build a startup healthcare-focused sensor company.
+Professionally, Abhijit is a data scientist at AstraZeneca and an adjunct professor at Georgetown University.
 
 **Tom Wildsmith** is a second degree black belt and certified instructor in Kokikai Aikido.  Tom started his aikido practice here at Aikido Kokikai of Frederick County, Maryland
 under the instruction of Sensei Bob McCann. Tom led the practice for several years after Sensei McCann moved from the area.
