@@ -19,6 +19,6 @@ He co-instructs all classes and leads the administration of the club. Profession
 
 **Michael Jalbert**  and **Glenn Eubinag** are first degree black belts and certified instructors in Kokikai Aikido. Both Michael and Glenn started their aikido practice here at Aikido Kokikai of Frederick County, Maryland under the instruction of Sensei Tom Wildsmith and have continued training under Sensei Abhijit Dasgupta.  Professionally, Michael works as a sales executive for a major dental products company, and Glenn is an engineer for a major government contractor.
 
-Abhijit, Tom and Michael regularly attend national camps and seminars with Sensei Maruyama and other senior instructors in Kokikai Aikido.
+All instructors regularly attend national camps and seminars with Sensei Maruyama and other senior instructors in Kokikai Aikido.
 
 Please <a href="mailto:aikidasgupta+akf@gmail.com">contact the instructors</a> if you have questions or require further information about our programs
