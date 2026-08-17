@@ -19,7 +19,7 @@ Professionally, Tom is an actuarial scientist at a major insurance company.
 
 **Glenn Eubinag** is a second degree black belt and assistant instructor. Glenn started his aikido practice at AKFC, and is our primary administrator and liason with the Frederick County Parks and Recreation department. He brings prior wrestling experience to the dojo, and is a certified Reiki master. Professionally, Glenn is a senior engineer for a major government contractor.
 
-**Michael Jalbert**  is a first degree black belt and assistant instructor. Michael started his training at AKFC, and brings deep analytic insight to his practice. Professionally, Michael works as a sales executive for a major dental products company, and Glenn is an engineer for a major government contractor.
+**Michael Jalbert**  is a first degree black belt and assistant instructor. Michael started his training at AKFC, and brings deep analytic insight to his practice. Professionally, Michael works as a sales executive for a major dental products company.
 
 All instructors regularly attend national camps and seminars with Sensei Maruyama and other senior instructors in Kokikai Aikido.
 
